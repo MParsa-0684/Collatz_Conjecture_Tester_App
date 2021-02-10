@@ -1,0 +1,18 @@
+C:\Users\Parsa Arani\Desktop\Collatz conjecture\Collatz conjecture\bin\Debug\Collatz conjecture.exe.config
+C:\Users\Parsa Arani\Desktop\Collatz conjecture\Collatz conjecture\bin\Debug\Collatz conjecture.exe
+C:\Users\Parsa Arani\Desktop\Collatz conjecture\Collatz conjecture\bin\Debug\Collatz conjecture.pdb
+C:\Users\Parsa Arani\Desktop\Collatz conjecture\Collatz conjecture\obj\Debug\Collatz conjecture.csprojResolveAssemblyReference.cache
+C:\Users\Parsa Arani\Desktop\Collatz conjecture\Collatz conjecture\obj\Debug\Collatz_conjecture.Form1.resources
+C:\Users\Parsa Arani\Desktop\Collatz conjecture\Collatz conjecture\obj\Debug\Collatz_conjecture.Properties.Resources.resources
+C:\Users\Parsa Arani\Desktop\Collatz conjecture\Collatz conjecture\obj\Debug\Collatz conjecture.csproj.GenerateResource.Cache
+C:\Users\Parsa Arani\Desktop\Collatz conjecture\Collatz conjecture\obj\Debug\Collatz conjecture.exe
+C:\Users\Parsa Arani\Desktop\Collatz conjecture\Collatz conjecture\obj\Debug\Collatz conjecture.pdb
+C:\Users\Parsa Arani\Desktop\Projects Data\Collatz conjecture\Collatz conjecture\bin\Debug\Collatz conjecture.exe.config
+C:\Users\Parsa Arani\Desktop\Projects Data\Collatz conjecture\Collatz conjecture\obj\Debug\Collatz conjecture.exe
+C:\Users\Parsa Arani\Desktop\Projects Data\Collatz conjecture\Collatz conjecture\obj\Debug\Collatz conjecture.pdb
+C:\Users\Parsa Arani\Desktop\Projects Data\Collatz conjecture\Collatz conjecture\bin\Debug\Collatz conjecture.exe
+C:\Users\Parsa Arani\Desktop\Projects Data\Collatz conjecture\Collatz conjecture\bin\Debug\Collatz conjecture.pdb
+C:\Users\Parsa Arani\Desktop\Projects Data\Collatz conjecture\Collatz conjecture\obj\Debug\Collatz conjecture.csprojResolveAssemblyReference.cache
+C:\Users\Parsa Arani\Desktop\Projects Data\Collatz conjecture\Collatz conjecture\obj\Debug\Collatz_conjecture.Form1.resources
+C:\Users\Parsa Arani\Desktop\Projects Data\Collatz conjecture\Collatz conjecture\obj\Debug\Collatz_conjecture.Properties.Resources.resources
+C:\Users\Parsa Arani\Desktop\Projects Data\Collatz conjecture\Collatz conjecture\obj\Debug\Collatz conjecture.csproj.GenerateResource.Cache
